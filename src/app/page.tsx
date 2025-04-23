@@ -14,4 +14,11 @@ export default function Home() {
       </div>
     </div>
   );
+
+//IDENTIFICACION MENSAJE
+//CAROLINA DE JESUS ORTEGA CEPEDA A01282386
+//ACTIVIDAD WEATHER DE USAR UNA API 
+//genuinamente no me acuerdo de cuando la pidio ._.
+
+
 }
